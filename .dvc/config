@@ -1,4 +1,6 @@
 [core]
-    remote = remote
+    remote = myyremote
 ['remote "remote"']
+    url = ../tmp
+['remote "myyremote"']
     url = ../tmp
